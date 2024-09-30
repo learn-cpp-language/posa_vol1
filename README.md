@@ -11,4 +11,3 @@
 * Chapter 7: The Pattern Community
 * Chapter 8: Where Will Patterns go?
 * Chapter 8: Where Will Patterns go?
-* Chapter 8: Where Will Patterns go?
